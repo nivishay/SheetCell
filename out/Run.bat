@@ -1,0 +1,1 @@
+java -jar .\artifacts\UI\.\UI.jar
